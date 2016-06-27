@@ -47,6 +47,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [caramel](http://caramel.ga/) - A simple, beautiful, responsive, modern CSS framework
 - [corpus](https://github.com/jamiewilson/corpus) - A collection of CSS things
 - [HTML Starterkit](http://zitrusfrisch.com/html-starterkit/) - HTML5 template to kick off your responsive websites
+- [Kraken](https://cferdinandi.github.io/kraken/index.html) - A lightweight, mobile-first CSS framework
 - [kube](http://imperavi.com/kube/) - Minimalistic Web framework
 - [Material Design Lite](http://www.getmdl.io/) - Material Design Lite Components in HTML/CSS/JS
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
@@ -224,6 +225,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 ### Image Processing
 - [camanjs](http://camanjs.com/) - Combination of a simple-to-use interface with advanced and image/canvas editing techniques
 - [grafijs](http://grafijs.org/) - Library with basic image processing functions
+- [Kraken.io](https://kraken.io/) - Image optimizer
 - [smartcrop](https://github.com/jwagner/smartcrop.js/) - Content aware image cropping
 
 **[⬆ back to top](#table-of-contents)**
